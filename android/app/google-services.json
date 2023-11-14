@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "243455205908",
+    "project_id": "healthy-bites-700c9",
+    "storage_bucket": "healthy-bites-700c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243455205908:android:0b255c8d3ee0e748347d01",
+        "android_client_info": {
+          "package_name": "com.hunter.code.hunter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU9gHN2xefoemdZJmXdDBTGb3JpeEVFQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243455205908:android:41c072003acecabb347d01",
+        "android_client_info": {
+          "package_name": "com.webrange.healthybites"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU9gHN2xefoemdZJmXdDBTGb3JpeEVFQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
